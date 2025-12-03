@@ -1,0 +1,6 @@
+name: Post welcome content
+on:
+  pull_request:
+    type: [opened]
+permissions:
+  pull_request: write
